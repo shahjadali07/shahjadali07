@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 → Building real-world projects using Java, SQL, and Web Technologies to strengthen problem-solving skills.<br>→ Open-source projects, beginner-friendly repositories, and web-based applications.<br>→ DSA optimization, system design basics, and backend development concepts.<br>→  Data Structures & Algorithms, DBMS, Computer Networks, and Full-Stack Development.<br>→ Java, SQL, HTML/CSS, GitHub, and basic DSA concepts.<br> → I enjoy turning complex problems into simple, working solutions 🚀
 
 
